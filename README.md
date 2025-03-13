@@ -30,7 +30,7 @@ Matplotlib
 Scikit-learn
 ## License
 such as MIT, GPL, etc.
-
+## Author
 Including these steps ensures that anyone who visits your repository can easily follow the instructions to clone the repository, navigate to it, and run the Jupyter notebook to reproduce your analysis. If you have any more questions or need further assistance, feel free to ask!
 
 
